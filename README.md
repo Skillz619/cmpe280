@@ -4,4 +4,4 @@
 Assignment 1 - https://shreekarchatwithgemini.netlify.app/
 
 
-Assignment 2 - 
+Assignment 2 - https://shreekchartjsui.netlify.app/
