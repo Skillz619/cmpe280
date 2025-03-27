@@ -2,3 +2,6 @@
 
 
 Assignment 1 - https://shreekarchatwithgemini.netlify.app/
+
+
+Assignment 2 - 
